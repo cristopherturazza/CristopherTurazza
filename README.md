@@ -15,15 +15,18 @@ Currently a Full Stack Junior profile, i'm quite skilled in:
 ## DB :file_cabinet:
 - MongoDB (but i love SQL too)
 
-## Wanna Learning 🌱
+## Learning Soon 🌱
 - Dart / Flutter
 - GraphQL
 - Go
 
 Unfortunately, development isn't currently my job, but I'm working hard to make that happen. 
 
-📫 Links:
+## Contact Me 📫
 
+[<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/cristopher-turazza-0863a026) 
+&nbsp; &nbsp; 
+[<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png">](mailto:cristopherturazza@gmail.com)
 
 
 <!--
