@@ -13,14 +13,7 @@ Currently a Full Stack Junior profile, i'm quite skilled in:
 - Node.js /with Express (Fastify coming soon)
 
 ## DB :file_cabinet:
-- MongoDB / SQLite / MySQL
-
-## Learning Soon 🌱
-- Dart / Flutter
-- GraphQL
-- Go
-
-Unfortunately, development isn't currently my job, but I'm working hard to make that happen. 
+- MSSQL / MongoDB
 
 ## Contact Me 📫
 
