@@ -6,14 +6,20 @@ Currently a Full Stack Junior profile, i'm quite skilled in:
 ## FE :iphone:
 - JS / TS
 - React.js 
-- Vue.js 
+- Vue.js
+- Bootstrap
 - Tailwind CSS
 
 ## BE :desktop_computer:
-- Node.js /with Express (Fastify coming soon)
+- Node.js /with Express
+- .NET / C#
 
 ## DB :file_cabinet:
 - MSSQL / MongoDB
+
+## Mobile
+- Swift/UI Kit
+- Flutter
 
 ## Contact Me 📫
 
