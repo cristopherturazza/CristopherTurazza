@@ -3,7 +3,7 @@ My name is **Cristopher Turazza**, i'm from Italy, born in 1986 and i had writte
 
 Currently a Full Stack Junior profile, i'm quite skilled in:
 
-## FE :iphone:
+## FE :radio_button:
 - JS / TS
 - React.js 
 - Vue.js
@@ -17,7 +17,7 @@ Currently a Full Stack Junior profile, i'm quite skilled in:
 ## DB :file_cabinet:
 - MSSQL / MongoDB
 
-## Mobile
+## Mobile :iphone:
 - Swift/UI Kit
 - Flutter
 
