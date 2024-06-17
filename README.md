@@ -5,7 +5,7 @@ Currently a Full Stack Junior profile, i'm quite skilled in:
 
 ## FE :radio_button:
 - JS / TS
-- React.js 
+- React.js / Next.js
 - Vue.js
 - Bootstrap
 - Tailwind CSS
@@ -20,6 +20,9 @@ Currently a Full Stack Junior profile, i'm quite skilled in:
 ## Mobile :iphone:
 - Swift/UI Kit
 - Flutter
+
+## Tools :wrench:
+- Atlassian Suite (Jira/Confluence)
 
 ## Contact Me 📫
 
