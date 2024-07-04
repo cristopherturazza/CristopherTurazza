@@ -7,8 +7,7 @@ Currently a Full Stack Junior profile, i'm quite skilled in:
 - JS / TS
 - React.js / Next.js
 - Vue.js
-- Bootstrap
-- Tailwind CSS
+- Tailwind CSS / Bootstrap
 
 ## BE :desktop_computer:
 - Node.js /with Express
