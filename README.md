@@ -1,7 +1,11 @@
 ### Ciao 👋
 My name is **Cristopher Turazza**, i'm from Italy, born in 1986 and i had written my first code when i was 9.
 
-Currently a Full Stack Junior profile, i'm quite skilled in:
+Currently a Full Stack Developer profile, i'm quite skilled in:
+
+## BE :desktop_computer:
+- Node.js /with Express
+- .NET / C#
 
 ## FE :radio_button:
 - JS / TS
@@ -9,12 +13,8 @@ Currently a Full Stack Junior profile, i'm quite skilled in:
 - Vue.js
 - Tailwind CSS / Bootstrap
 
-## BE :desktop_computer:
-- Node.js /with Express
-- .NET / C#
-
 ## DB :file_cabinet:
-- MSSQL / MongoDB
+- PostgreSQL/Prisma - MongoDB/Mongoose - TSQL/MSSQL
 
 ## Mobile :iphone:
 - Swift/UI Kit
