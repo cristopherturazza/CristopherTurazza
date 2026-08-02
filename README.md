@@ -1,46 +1,27 @@
-### Ciao 👋
-My name is **Cristopher Turazza**, i'm from Italy, born in 1986 and i had written my first code when i was 9.
+# Cristopher Turazza
 
-Currently a Full Stack Developer profile, i'm quite skilled in:
+Cloud Architect. I look after the Azure infrastructure behind CRM and AI products for pharma
+companies.
 
-## BE :desktop_computer:
-- Node.js /with Express
-- .NET / C#
+Day to day: Terraform across a few module repos, GitHub Actions with OIDC so there are no
+secrets lying around, Entra ID and identity governance, Azure SQL, Power BI embedded, and
+lately a lot of LLM agents — inside the products and inside my own workflow.
 
-## FE :radio_button:
-- JS / TS
-- React.js / Next.js
-- Vue.js
-- Tailwind CSS / Bootstrap
+I came back to tech in 2022 after a long detour, spent two years writing full stack code on
+a pharma AI CRM, then moved to cloud architecture in 2025. I still write code.
 
-## DB :file_cabinet:
-- PostgreSQL/Prisma - MongoDB/Mongoose - TSQL/MSSQL
+One thing worth saying: most of what I build is in private company repos, so it isn't here.
+What's on this profile is study projects and side stuff.
 
-## Mobile :iphone:
-- Swift/UI Kit
-- Flutter
+### Stack
 
-## Tools :wrench:
-- Atlassian Suite (Jira/Confluence)
+Azure (App Service, Functions, Storage, Key Vault, Data Factory, Log Analytics) · Entra ID ·
+Azure SQL · Fabric / Power BI embedded
+Terraform · GitHub Actions · PowerShell · Azure CLI · KQL
+TypeScript / Node.js · C# · T-SQL · React · Vue
+GxP and NIS2 context, least privilege by default
 
-## Contact Me 📫
+### Contacts
 
-[<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/cristopher-turazza-0863a026) 
-&nbsp; &nbsp; 
-[<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png">](mailto:cristopherturazza@gmail.com)
-
-
-<!--
-**cristopherturazza/CristopherTurazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopher-turazza)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:cristopherturazza@gmail.com)
